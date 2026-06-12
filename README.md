@@ -83,7 +83,7 @@
 3. استمتع بالأداة!
 
 ```
-loadstring(game:HttpGet("raw_url_here"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tareqmm535-crypto/dex-by-Gto/refs/heads/main/dex.lua"))()
 ```
 
 ---
@@ -92,13 +92,13 @@ loadstring(game:HttpGet("raw_url_here"))()
 
 - بعض الميزات تعتمد على قدرات المنفذ الخاص بك
 - الميزات الاحتياطية قد لا تعمل على جميع المنفذين
-- تم تطويره بواسطة Chillz - مستوحى من Moon's Dex
+- تم تطويره بواسطة GTO - مستوحى من Moon's Dex
 
 ---
 
 ## 👥 المساهمون
 
-- **Chillz** - التطوير الرئيسي
+- **GTO** - التطوير الرئيسي
 - **Moon** - Dex الأصلي
 - **Toon** - IY Dex وطلبات السحب
 - **Cazan** - المعاينة ثلاثية الأبعاد
